@@ -1,9 +1,10 @@
 // 1. Create an array named numbers and store 5 number values in it
+let numbers = [2,5,6,8,15]
 
 // 2. Calculate the sum of array items and print it to the console using console.log()
-
+let sumNumbers = 56454545455
 // 3. Calculate the average of array items and print it to the console using console.log()
-
+lbjj
 // 4. Find the highest number in the array and print it to the console using console.log()
 
 // 5. Find the lowest number in the array and print it to the console using console.log()
