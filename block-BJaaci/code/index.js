@@ -26,18 +26,18 @@ let movies = [
 ];
 
 /*
-Go through the variable named movies properly before solvinf the exercises.
+Go through the variable named movies properly before solving the exercises.
 Use the variable named movies to solve the requirement below.
 */
 
 // 1. Log the value of the title key in the first movie of the array named `movies`
-
+getMatchedCSSRules
 // 2. Log the value of the title key in the last movie of the array named `movies`
-
+bjm,mj
 // 3. Log the value of the title key in the second movie (index 1) of the array named `movies`
 
 // 4. Log the value of the year key in the first movie of the array named `movies`
-
+console
 // 5. Log all the named of actors (key named actors) of the first movie
 
 // 6. Log the name of the first actor of the first movie
