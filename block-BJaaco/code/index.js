@@ -80,7 +80,6 @@ function clear() {
 // console.log(clear(['Ryan', null, 0, 'John', 'Bran'])); //['Bran', 'John', 'Ryan']
 
 /*
-
  6. Write a function named arrayToObj which accepts an array and return an object
  where the key will be the index of array and value will be the element of the array.
 
@@ -92,11 +91,12 @@ function clear() {
     arrayToObj(['a', undefined, 'd']); // {0: 'a', 1: undefined, 2: 'd'}
     arrayToObj(['Ryan', 'John']); // {0: 'Ryan', 1: 'John'}
 */
-
+mkmp[pp//
+vvjhgvvhjhjg
 function arrayToObj() {
   // your code
 }
-
+mlmlk
 // Uncomment the code below and test the output
 // console.log(arrayToObj([1, 2, 3, 4])); // {0: 1, 1: 2, 2: 3, 3: 4}
 // console.log(arrayToObj(['a', undefined, 'd'])); // {0: 'a', 1: undefined, 2: 'd'}
